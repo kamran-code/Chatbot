@@ -9,7 +9,6 @@
 /storage/*.key
 /storage/oauth-private.key
 /storage/oauth-public.key
-/bootstrap/cache
 /vendor
 .env
 .env.backup
