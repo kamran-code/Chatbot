@@ -145,5 +145,23 @@
             alert("Message sent successfully!");
         });
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.min.js"></script>
+<script>
+    var botmanWidget = {
+        title: "💳 Custom Virtual Assistant",
+        introMessage: "👋 Welcome to CBMgarh! This Demo for a Bank?",
+        mainColor: "#0A3D62",  
+        bubbleBackground: "#000000",  
+        aboutText: "🚀 Powered by CBMgarh Bank",
+        bubbleAvatarUrl: "https://img.icons8.com/?size=100&id=8dViXhX9K4du&format=png&color=000000",  
+        headerTextColor: "#FFFFFF", 
+        textColor: "#2C3E50",  
+        placeholderTextColor: "#7F8C8D",
+        desktopHeight: 500, 
+        desktopWidth: 400,  
+        chatServer: "/botman-bank"
+    };
+</script>
+    
 </body>
 </html>
