@@ -159,7 +159,7 @@
         placeholderTextColor: "#7F8C8D",
         desktopHeight: 500, 
         desktopWidth: 400,  
-        chatServer: "/botman-bank"
+        chatServer: "https://sourceopen.in/botman"
     };
 </script>
     
